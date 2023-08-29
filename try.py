@@ -10,4 +10,5 @@ while True:
         print(values)
     elif event==sg.WIN_CLOSED:
         break
+        print(123)
 win.close()
