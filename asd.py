@@ -234,7 +234,8 @@ def main(window):
             offset_x += player.x_vel
     pygame.quit()
     quit()
-
+def a():
+    pass
 
 if __name__ == "__main__":
     main(window)
